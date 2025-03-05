@@ -5,7 +5,8 @@ This project involves designing and implementing a digital clock using the Xilin
 The design is implemented using Verilog/VHDL, simulated in Xilinx ISE, and programmed onto the FPGA.
 
 📷 Expected Output
-![digital_clock](https://github.com/user-attachments/assets/5bfa4db8-e3f1-4719-a477-24d66e4c6939)
+![digital_clock](https://github.com/user-attachments/assets/60099ce8-f572-47b4-9f45-427cc48f87ac)
+
 
 
 🎯 Features
